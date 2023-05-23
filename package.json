@@ -1,0 +1,20 @@
+{
+	"name": "nytely-api-boilerplate",
+	"version": "1.0.0",
+	"description": "Boilerplate Code for Developing an API ",
+	"author": "JackNytely",
+	"license": "MIT",
+	"main": "src/app.ts",
+	"scripts": {
+		"start": "ts-node ."
+	},
+	"dependencies": {
+		"dotenv": "^16.0.3",
+		"express.js": "^1.0.0"
+	},
+	"devDependencies": {
+		"@types/express": "^4.17.17",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.0.4"
+	}
+}
